@@ -33,4 +33,11 @@ form .pass{
     .center{
         width: 30%
     }
+    .center form{
+        padding: 10px 20px;
+    }
+    form .pass {
+        margin: 15px 0;
+    }
+    
 }
