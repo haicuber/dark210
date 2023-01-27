@@ -23,6 +23,7 @@ body{
 .center form{
     padding: 20px 40px;
     box-sizing: border-box;
+    overflow: hidden;
 }
 form .pass{
     position: relative;
